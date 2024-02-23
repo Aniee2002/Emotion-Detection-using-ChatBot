@@ -9,8 +9,16 @@ We used HTML and CSS to design a homepage for our website that greets and chats 
 # Results
 Confusion Matrix:-
 
-![image](https://github.com/Aniee2002/Emotion-Detection-using-ChatBot/assets/88838805/5a94b9dc-c0b3-4f30-8bf2-2bb2159284f6)
+![image](https://github.com/Aniee2002/Emotion-Detection-using-Chatbot/assets/88838805/891a292e-e14e-4663-a301-0903897f407d)
+
 
 Model accuracy:-
 
-![image](https://github.com/Aniee2002/Emotion-Detection-using-ChatBot/assets/88838805/758290ec-573c-4fa6-983f-93dc302a53d4)
+![image](https://github.com/Aniee2002/Emotion-Detection-using-Chatbot/assets/88838805/37f8fa53-a200-4c68-84ca-218cc4c40e1e)
+
+Model loss:-
+
+![image](https://github.com/Aniee2002/Emotion-Detection-using-Chatbot/assets/88838805/0aff81d8-8bbd-415f-8acc-740181cdfe4c)
+
+
+
