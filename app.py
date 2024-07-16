@@ -4,7 +4,7 @@ from datetime import datetime
 import sqlite3
 import random
 from load import predict
-# from soap import emooo
+
 
 ###########################################################################################################
 app = Flask(__name__)
